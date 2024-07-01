@@ -26,7 +26,7 @@ This repository contains files and instructions for deploying a static website o
 2. **Clone Repository and Install NGINX**
    - Clone this repository to your EC2 instance:
      ```bash
-     git clone -b master https://github.com/Dinnyuy/Task-0.git
+     git clone https://github.com/Dinnyuy/Task-0.git
      ```
    - Install NGINX:
      ```bash
